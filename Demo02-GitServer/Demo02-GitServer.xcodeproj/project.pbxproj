@@ -7,50 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		85AC418F1BC6204800F64FD7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC418E1BC6204800F64FD7 /* main.m */; };
-		85AC41921BC6204800F64FD7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC41911BC6204800F64FD7 /* AppDelegate.m */; };
-		85AC41951BC6204800F64FD7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC41941BC6204800F64FD7 /* ViewController.m */; };
-		85AC41981BC6204800F64FD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85AC41961BC6204800F64FD7 /* Main.storyboard */; };
-		85AC419A1BC6204800F64FD7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85AC41991BC6204800F64FD7 /* Images.xcassets */; };
-		85AC419D1BC6204800F64FD7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85AC419B1BC6204800F64FD7 /* LaunchScreen.xib */; };
-		85AC41A91BC6204800F64FD7 /* Demo02_GitServerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC41A81BC6204800F64FD7 /* Demo02_GitServerTests.m */; };
+		85AC41C11BC623CC00F64FD7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC41C01BC623CC00F64FD7 /* main.m */; };
+		85AC41C41BC623CC00F64FD7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC41C31BC623CC00F64FD7 /* AppDelegate.m */; };
+		85AC41C71BC623CC00F64FD7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC41C61BC623CC00F64FD7 /* ViewController.m */; };
+		85AC41CA1BC623CC00F64FD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85AC41C81BC623CC00F64FD7 /* Main.storyboard */; };
+		85AC41CC1BC623CC00F64FD7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85AC41CB1BC623CC00F64FD7 /* Images.xcassets */; };
+		85AC41CF1BC623CC00F64FD7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 85AC41CD1BC623CC00F64FD7 /* LaunchScreen.xib */; };
+		85AC41DB1BC623CC00F64FD7 /* Demo02_GitServerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 85AC41DA1BC623CC00F64FD7 /* Demo02_GitServerTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		85AC41A31BC6204800F64FD7 /* PBXContainerItemProxy */ = {
+		85AC41D51BC623CC00F64FD7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 85AC41811BC6204800F64FD7 /* Project object */;
+			containerPortal = 85AC41B31BC623CC00F64FD7 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 85AC41881BC6204800F64FD7;
+			remoteGlobalIDString = 85AC41BA1BC623CC00F64FD7;
 			remoteInfo = "Demo02-GitServer";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		85AC41891BC6204800F64FD7 /* Demo02-GitServer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Demo02-GitServer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		85AC418D1BC6204800F64FD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		85AC418E1BC6204800F64FD7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		85AC41901BC6204800F64FD7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		85AC41911BC6204800F64FD7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		85AC41931BC6204800F64FD7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		85AC41941BC6204800F64FD7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		85AC41971BC6204800F64FD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		85AC41991BC6204800F64FD7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		85AC419C1BC6204800F64FD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		85AC41A21BC6204800F64FD7 /* Demo02-GitServerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Demo02-GitServerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		85AC41A71BC6204800F64FD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		85AC41A81BC6204800F64FD7 /* Demo02_GitServerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Demo02_GitServerTests.m; sourceTree = "<group>"; };
+		85AC41BB1BC623CC00F64FD7 /* Demo02-GitServer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Demo02-GitServer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85AC41BF1BC623CC00F64FD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85AC41C01BC623CC00F64FD7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		85AC41C21BC623CC00F64FD7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		85AC41C31BC623CC00F64FD7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		85AC41C51BC623CC00F64FD7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		85AC41C61BC623CC00F64FD7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		85AC41C91BC623CC00F64FD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		85AC41CB1BC623CC00F64FD7 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		85AC41CE1BC623CC00F64FD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		85AC41D41BC623CC00F64FD7 /* Demo02-GitServerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Demo02-GitServerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85AC41D91BC623CC00F64FD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85AC41DA1BC623CC00F64FD7 /* Demo02_GitServerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Demo02_GitServerTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		85AC41861BC6204800F64FD7 /* Frameworks */ = {
+		85AC41B81BC623CC00F64FD7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		85AC419F1BC6204800F64FD7 /* Frameworks */ = {
+		85AC41D11BC623CC00F64FD7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -60,61 +60,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		85AC41801BC6204800F64FD7 = {
+		85AC41B21BC623CC00F64FD7 = {
 			isa = PBXGroup;
 			children = (
-				85AC418B1BC6204800F64FD7 /* Demo02-GitServer */,
-				85AC41A51BC6204800F64FD7 /* Demo02-GitServerTests */,
-				85AC418A1BC6204800F64FD7 /* Products */,
+				85AC41BD1BC623CC00F64FD7 /* Demo02-GitServer */,
+				85AC41D71BC623CC00F64FD7 /* Demo02-GitServerTests */,
+				85AC41BC1BC623CC00F64FD7 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		85AC418A1BC6204800F64FD7 /* Products */ = {
+		85AC41BC1BC623CC00F64FD7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				85AC41891BC6204800F64FD7 /* Demo02-GitServer.app */,
-				85AC41A21BC6204800F64FD7 /* Demo02-GitServerTests.xctest */,
+				85AC41BB1BC623CC00F64FD7 /* Demo02-GitServer.app */,
+				85AC41D41BC623CC00F64FD7 /* Demo02-GitServerTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		85AC418B1BC6204800F64FD7 /* Demo02-GitServer */ = {
+		85AC41BD1BC623CC00F64FD7 /* Demo02-GitServer */ = {
 			isa = PBXGroup;
 			children = (
-				85AC41901BC6204800F64FD7 /* AppDelegate.h */,
-				85AC41911BC6204800F64FD7 /* AppDelegate.m */,
-				85AC41931BC6204800F64FD7 /* ViewController.h */,
-				85AC41941BC6204800F64FD7 /* ViewController.m */,
-				85AC41961BC6204800F64FD7 /* Main.storyboard */,
-				85AC41991BC6204800F64FD7 /* Images.xcassets */,
-				85AC419B1BC6204800F64FD7 /* LaunchScreen.xib */,
-				85AC418C1BC6204800F64FD7 /* Supporting Files */,
+				85AC41C21BC623CC00F64FD7 /* AppDelegate.h */,
+				85AC41C31BC623CC00F64FD7 /* AppDelegate.m */,
+				85AC41C51BC623CC00F64FD7 /* ViewController.h */,
+				85AC41C61BC623CC00F64FD7 /* ViewController.m */,
+				85AC41C81BC623CC00F64FD7 /* Main.storyboard */,
+				85AC41CB1BC623CC00F64FD7 /* Images.xcassets */,
+				85AC41CD1BC623CC00F64FD7 /* LaunchScreen.xib */,
+				85AC41BE1BC623CC00F64FD7 /* Supporting Files */,
 			);
 			path = "Demo02-GitServer";
 			sourceTree = "<group>";
 		};
-		85AC418C1BC6204800F64FD7 /* Supporting Files */ = {
+		85AC41BE1BC623CC00F64FD7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				85AC418D1BC6204800F64FD7 /* Info.plist */,
-				85AC418E1BC6204800F64FD7 /* main.m */,
+				85AC41BF1BC623CC00F64FD7 /* Info.plist */,
+				85AC41C01BC623CC00F64FD7 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		85AC41A51BC6204800F64FD7 /* Demo02-GitServerTests */ = {
+		85AC41D71BC623CC00F64FD7 /* Demo02-GitServerTests */ = {
 			isa = PBXGroup;
 			children = (
-				85AC41A81BC6204800F64FD7 /* Demo02_GitServerTests.m */,
-				85AC41A61BC6204800F64FD7 /* Supporting Files */,
+				85AC41DA1BC623CC00F64FD7 /* Demo02_GitServerTests.m */,
+				85AC41D81BC623CC00F64FD7 /* Supporting Files */,
 			);
 			path = "Demo02-GitServerTests";
 			sourceTree = "<group>";
 		};
-		85AC41A61BC6204800F64FD7 /* Supporting Files */ = {
+		85AC41D81BC623CC00F64FD7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				85AC41A71BC6204800F64FD7 /* Info.plist */,
+				85AC41D91BC623CC00F64FD7 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -122,13 +122,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		85AC41881BC6204800F64FD7 /* Demo02-GitServer */ = {
+		85AC41BA1BC623CC00F64FD7 /* Demo02-GitServer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 85AC41AC1BC6204800F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServer" */;
+			buildConfigurationList = 85AC41DE1BC623CC00F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServer" */;
 			buildPhases = (
-				85AC41851BC6204800F64FD7 /* Sources */,
-				85AC41861BC6204800F64FD7 /* Frameworks */,
-				85AC41871BC6204800F64FD7 /* Resources */,
+				85AC41B71BC623CC00F64FD7 /* Sources */,
+				85AC41B81BC623CC00F64FD7 /* Frameworks */,
+				85AC41B91BC623CC00F64FD7 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -136,46 +136,46 @@
 			);
 			name = "Demo02-GitServer";
 			productName = "Demo02-GitServer";
-			productReference = 85AC41891BC6204800F64FD7 /* Demo02-GitServer.app */;
+			productReference = 85AC41BB1BC623CC00F64FD7 /* Demo02-GitServer.app */;
 			productType = "com.apple.product-type.application";
 		};
-		85AC41A11BC6204800F64FD7 /* Demo02-GitServerTests */ = {
+		85AC41D31BC623CC00F64FD7 /* Demo02-GitServerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 85AC41AF1BC6204800F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServerTests" */;
+			buildConfigurationList = 85AC41E11BC623CC00F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServerTests" */;
 			buildPhases = (
-				85AC419E1BC6204800F64FD7 /* Sources */,
-				85AC419F1BC6204800F64FD7 /* Frameworks */,
-				85AC41A01BC6204800F64FD7 /* Resources */,
+				85AC41D01BC623CC00F64FD7 /* Sources */,
+				85AC41D11BC623CC00F64FD7 /* Frameworks */,
+				85AC41D21BC623CC00F64FD7 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				85AC41A41BC6204800F64FD7 /* PBXTargetDependency */,
+				85AC41D61BC623CC00F64FD7 /* PBXTargetDependency */,
 			);
 			name = "Demo02-GitServerTests";
 			productName = "Demo02-GitServerTests";
-			productReference = 85AC41A21BC6204800F64FD7 /* Demo02-GitServerTests.xctest */;
+			productReference = 85AC41D41BC623CC00F64FD7 /* Demo02-GitServerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		85AC41811BC6204800F64FD7 /* Project object */ = {
+		85AC41B31BC623CC00F64FD7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = tarena;
 				TargetAttributes = {
-					85AC41881BC6204800F64FD7 = {
+					85AC41BA1BC623CC00F64FD7 = {
 						CreatedOnToolsVersion = 6.3;
 					};
-					85AC41A11BC6204800F64FD7 = {
+					85AC41D31BC623CC00F64FD7 = {
 						CreatedOnToolsVersion = 6.3;
-						TestTargetID = 85AC41881BC6204800F64FD7;
+						TestTargetID = 85AC41BA1BC623CC00F64FD7;
 					};
 				};
 			};
-			buildConfigurationList = 85AC41841BC6204800F64FD7 /* Build configuration list for PBXProject "Demo02-GitServer" */;
+			buildConfigurationList = 85AC41B61BC623CC00F64FD7 /* Build configuration list for PBXProject "Demo02-GitServer" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -183,29 +183,29 @@
 				en,
 				Base,
 			);
-			mainGroup = 85AC41801BC6204800F64FD7;
-			productRefGroup = 85AC418A1BC6204800F64FD7 /* Products */;
+			mainGroup = 85AC41B21BC623CC00F64FD7;
+			productRefGroup = 85AC41BC1BC623CC00F64FD7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				85AC41881BC6204800F64FD7 /* Demo02-GitServer */,
-				85AC41A11BC6204800F64FD7 /* Demo02-GitServerTests */,
+				85AC41BA1BC623CC00F64FD7 /* Demo02-GitServer */,
+				85AC41D31BC623CC00F64FD7 /* Demo02-GitServerTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		85AC41871BC6204800F64FD7 /* Resources */ = {
+		85AC41B91BC623CC00F64FD7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85AC41981BC6204800F64FD7 /* Main.storyboard in Resources */,
-				85AC419D1BC6204800F64FD7 /* LaunchScreen.xib in Resources */,
-				85AC419A1BC6204800F64FD7 /* Images.xcassets in Resources */,
+				85AC41CA1BC623CC00F64FD7 /* Main.storyboard in Resources */,
+				85AC41CF1BC623CC00F64FD7 /* LaunchScreen.xib in Resources */,
+				85AC41CC1BC623CC00F64FD7 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		85AC41A01BC6204800F64FD7 /* Resources */ = {
+		85AC41D21BC623CC00F64FD7 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -215,47 +215,47 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		85AC41851BC6204800F64FD7 /* Sources */ = {
+		85AC41B71BC623CC00F64FD7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85AC41951BC6204800F64FD7 /* ViewController.m in Sources */,
-				85AC41921BC6204800F64FD7 /* AppDelegate.m in Sources */,
-				85AC418F1BC6204800F64FD7 /* main.m in Sources */,
+				85AC41C71BC623CC00F64FD7 /* ViewController.m in Sources */,
+				85AC41C41BC623CC00F64FD7 /* AppDelegate.m in Sources */,
+				85AC41C11BC623CC00F64FD7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		85AC419E1BC6204800F64FD7 /* Sources */ = {
+		85AC41D01BC623CC00F64FD7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85AC41A91BC6204800F64FD7 /* Demo02_GitServerTests.m in Sources */,
+				85AC41DB1BC623CC00F64FD7 /* Demo02_GitServerTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		85AC41A41BC6204800F64FD7 /* PBXTargetDependency */ = {
+		85AC41D61BC623CC00F64FD7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 85AC41881BC6204800F64FD7 /* Demo02-GitServer */;
-			targetProxy = 85AC41A31BC6204800F64FD7 /* PBXContainerItemProxy */;
+			target = 85AC41BA1BC623CC00F64FD7 /* Demo02-GitServer */;
+			targetProxy = 85AC41D51BC623CC00F64FD7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		85AC41961BC6204800F64FD7 /* Main.storyboard */ = {
+		85AC41C81BC623CC00F64FD7 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				85AC41971BC6204800F64FD7 /* Base */,
+				85AC41C91BC623CC00F64FD7 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		85AC419B1BC6204800F64FD7 /* LaunchScreen.xib */ = {
+		85AC41CD1BC623CC00F64FD7 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				85AC419C1BC6204800F64FD7 /* Base */,
+				85AC41CE1BC623CC00F64FD7 /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -263,7 +263,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		85AC41AA1BC6204800F64FD7 /* Debug */ = {
+		85AC41DC1BC623CC00F64FD7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -306,7 +306,7 @@
 			};
 			name = Debug;
 		};
-		85AC41AB1BC6204800F64FD7 /* Release */ = {
+		85AC41DD1BC623CC00F64FD7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -343,7 +343,7 @@
 			};
 			name = Release;
 		};
-		85AC41AD1BC6204800F64FD7 /* Debug */ = {
+		85AC41DF1BC623CC00F64FD7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -353,7 +353,7 @@
 			};
 			name = Debug;
 		};
-		85AC41AE1BC6204800F64FD7 /* Release */ = {
+		85AC41E01BC623CC00F64FD7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -363,7 +363,7 @@
 			};
 			name = Release;
 		};
-		85AC41B01BC6204800F64FD7 /* Debug */ = {
+		85AC41E21BC623CC00F64FD7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -382,7 +382,7 @@
 			};
 			name = Debug;
 		};
-		85AC41B11BC6204800F64FD7 /* Release */ = {
+		85AC41E31BC623CC00F64FD7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -400,32 +400,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		85AC41841BC6204800F64FD7 /* Build configuration list for PBXProject "Demo02-GitServer" */ = {
+		85AC41B61BC623CC00F64FD7 /* Build configuration list for PBXProject "Demo02-GitServer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				85AC41AA1BC6204800F64FD7 /* Debug */,
-				85AC41AB1BC6204800F64FD7 /* Release */,
+				85AC41DC1BC623CC00F64FD7 /* Debug */,
+				85AC41DD1BC623CC00F64FD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		85AC41AC1BC6204800F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServer" */ = {
+		85AC41DE1BC623CC00F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				85AC41AD1BC6204800F64FD7 /* Debug */,
-				85AC41AE1BC6204800F64FD7 /* Release */,
+				85AC41DF1BC623CC00F64FD7 /* Debug */,
+				85AC41E01BC623CC00F64FD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		85AC41AF1BC6204800F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServerTests" */ = {
+		85AC41E11BC623CC00F64FD7 /* Build configuration list for PBXNativeTarget "Demo02-GitServerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				85AC41B01BC6204800F64FD7 /* Debug */,
-				85AC41B11BC6204800F64FD7 /* Release */,
+				85AC41E21BC623CC00F64FD7 /* Debug */,
+				85AC41E31BC623CC00F64FD7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 85AC41811BC6204800F64FD7 /* Project object */;
+	rootObject = 85AC41B31BC623CC00F64FD7 /* Project object */;
 }
